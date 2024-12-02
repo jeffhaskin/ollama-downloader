@@ -1,6 +1,6 @@
 # Ollama Model Downloader
 
-A simple Python script to download multiple Ollama models sequentially.
+A simple Python script to download multiple Ollama models sequentially. Set and forget. Helpful when you're internet can't support multiple concurrent downloads, or when downloading concurrently causes the downloads to fail.
 
 ## Prerequisites
 
